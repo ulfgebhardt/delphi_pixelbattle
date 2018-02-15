@@ -1,4 +1,4 @@
-program Pixelbalttle;
+program Pixelbattle;
 
 uses
   Forms,
